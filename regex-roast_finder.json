@@ -1,0 +1,17 @@
+{
+    "id": "66e273e0-d551-4237-a115-69b43f7e8d34",
+    "scriptName": "Roast Finder",
+    "findRegex": "/<roast>[\\s\\S]*?<\\/roast>/gsi",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": 6,
+    "maxDepth": null
+}
